@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishanth Bhat</h1>
 <h3 align="center">A bit-sized developer in a byte-sized world!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=b1n4ry9h0s7&label=Profile%20views&color=ff9500&style=flat" alt="b1n4ry9h0s7" /> </p>
-
 - 🌱 I’m currently learning **.Net, C# and Data Science**
 
 <h3 align="left">Connect with me:</h3>

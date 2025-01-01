@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Norwich, UK
 * ✉️  You can contact me at [nishanthbht@gmail.com](mailto:nishanthbht@gmail.com)
-* 🧠  I'm learning DevOps
+* 🧠  I'm learning Kubernetes
 
 ### Skills
 
